@@ -14,7 +14,7 @@
                 <div class="grid gap-y-12">
                     <div class="flex flex-wrap offers-section">
                         <div class="sm:w-full lg:pr-6 w-full md:w-2/5 lg:w-2/5 xl:w-2/5 2xl:w-2/5 image-card">
-                            <img class="sm:w-full w-full" src="/assets/images/corporate_parties.jpeg" alt="">
+                            <img class="sm:w-full w-full" src=" " alt="">
                         </div>
                         <div class="sm:w-full md:pl-6 w-full md:w-3/5 lg:w-3/5 xl:w-3/5 2xl:w-3/5 description">
                             <h4 class="leading-4 text-xl sm:leading-4 sm:text-xl md:text-2xl lg:text-3xl xl:text-3xl 2xl:text-3xl">
@@ -45,7 +45,7 @@
                     </div>
                     <div class="flex flex-wrap offers-section">
                         <div class="sm:w-full lg:pr-6 w-full md:w-2/5 lg:w-2/5 xl:w-2/5 2xl:w-2/5 image-card">
-                            <img class="sm:w-full w-full" src="/assets/images/bootique_events.jpeg" alt="">
+                            <img class="sm:w-full w-full" src=" " alt="">
                         </div>
                         <div class="sm:w-full md:pl-6 w-full md:w-3/5 lg:w-3/5 xl:w-3/5 2xl:w-3/5 description">
                             <h4 class="sm:leading-4 leading-4 sm:text-xl text-xl md:text-2xl lg:text-3xl xl:text-3xl 2xl:text-3xl">
@@ -76,7 +76,7 @@
                     </div>
                     <div class="flex flex-wrap offers-section">
                         <div class="sm:w-full lg:pr-6 w-full md:w-2/5 lg:w-2/5 xl:w-2/5 2xl:w-2/5 image-card">
-                            <img class="sm:w-full w-full" src="/assets/images/cocktail_parties.jpeg" alt="">
+                            <img class="sm:w-full w-full" src=" " alt="">
                         </div>
                         <div class="sm:w-full md:pl-6 w-full md:w-3/5 lg:w-3/5 xl:w-3/5 2xl:w-3/5 description">
                             <h4 class="sm:leading-4 leading-4 sm:text-xl text-xl md:text-2xl lg:text-3xl xl:text-3xl 2xl:text-3xl">
@@ -107,7 +107,7 @@
                     </div>
                     <div class="flex flex-wrap offers-section">
                         <div class="sm:w-full lg:pr-6 w-full md:w-2/5 lg:w-2/5 xl:w-2/5 2xl:w-2/5 image-card">
-                            <img class="sm:w-full w-full" src="/assets/images/gala_events.jpeg" alt="">
+                            <img class="sm:w-full w-full" src=" " alt="">
                         </div>
                         <div class="sm:w-full md:pl-6 w-full md:w-3/5 lg:w-3/5 xl:w-3/5 2xl:w-3/5 description">
                             <h4 class="sm:leading-4 leading-4 sm:text-xl text-xl md:text-2xl lg:text-3xl xl:text-3xl 2xl:text-3xl">
@@ -150,7 +150,7 @@
 
 <style scoped lang="scss">
     .offers-hero {
-        background: url('/assets/images/events_landing.png');
+        background: url('');
         background-size: cover;
         height: 660px;
     }
